@@ -1,0 +1,15 @@
+.post{
+    width: 80%;
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    margin: 20px 0 ;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
